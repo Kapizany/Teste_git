@@ -1,1 +1,3 @@
+
 Master -> Modificação no master
+Branch -> Modificação no branch (Vai dar Conflito)
